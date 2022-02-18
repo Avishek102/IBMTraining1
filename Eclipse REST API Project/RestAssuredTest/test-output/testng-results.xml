@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-18T04:40:28Z" name="Default suite" finished-at="2022-02-18T04:40:32Z" duration-ms="4564">
+    <groups>
+    </groups>
+    <test started-at="2022-02-18T04:40:28Z" name="Default test" finished-at="2022-02-18T04:40:32Z" duration-ms="4564">
+      <class name="RestAssuredTest.TestCases">
+        <test-method signature="deleteMethodExample1()[pri:0, instance:RestAssuredTest.TestCases@68f4865]" started-at="2022-02-18T10:10:28Z" name="deleteMethodExample1" description="DELETE method call" finished-at="2022-02-18T10:10:30Z" duration-ms="2073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteMethodExample1 -->
+        <test-method signature="getMethodExample1()[pri:0, instance:RestAssuredTest.TestCases@68f4865]" started-at="2022-02-18T10:10:30Z" name="getMethodExample1" description="Rest Assured Test" finished-at="2022-02-18T10:10:30Z" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethodExample1 -->
+        <test-method signature="getMethodExample2()[pri:0, instance:RestAssuredTest.TestCases@68f4865]" started-at="2022-02-18T10:10:30Z" name="getMethodExample2" description="Rest Assured GET test 2" finished-at="2022-02-18T10:10:30Z" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethodExample2 -->
+        <test-method signature="getMethodExample3()[pri:0, instance:RestAssuredTest.TestCases@68f4865]" started-at="2022-02-18T10:10:30Z" name="getMethodExample3" description="GET URL path value" finished-at="2022-02-18T10:10:31Z" duration-ms="530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethodExample3 -->
+        <test-method signature="postMethodExample1()[pri:0, instance:RestAssuredTest.TestCases@68f4865]" started-at="2022-02-18T10:10:31Z" name="postMethodExample1" description="POST method" finished-at="2022-02-18T10:10:31Z" duration-ms="567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postMethodExample1 -->
+        <test-method signature="postMethodExample2()[pri:0, instance:RestAssuredTest.TestCases@68f4865]" started-at="2022-02-18T10:10:31Z" name="postMethodExample2" description="POST method with external JSON payload" finished-at="2022-02-18T10:10:32Z" duration-ms="485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postMethodExample2 -->
+        <test-method signature="putMethodExample1()[pri:0, instance:RestAssuredTest.TestCases@68f4865]" started-at="2022-02-18T10:10:32Z" name="putMethodExample1" description="PUT method call with external JSON payload" finished-at="2022-02-18T10:10:32Z" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putMethodExample1 -->
+      </class> <!-- RestAssuredTest.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
